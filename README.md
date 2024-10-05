@@ -25,5 +25,5 @@ The response variable labeled "C2" refers to the classification of players. It i
 - 1 - These are players who did not make it to the semifinals or played in the quarterfinals and lost.
 - 2 - These are players who at least made it to the semifinals.
 
-You can check out the project in this [link](https://github.com/Dcroix/Mall-Customer-Insight/blob/main/Kmeans%20Clustering%20of%20Mall%20Customers.ipynb)
+You can check out the project in this [link](https://github.com/Dcroix/TennisML/blob/main/MLTennis.ipynb)
 
